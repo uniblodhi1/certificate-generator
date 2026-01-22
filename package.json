@@ -1,0 +1,14 @@
+{
+  "name": "certificate-generator",
+  "version": "1.0.0",
+  "description": "Bulk exhaust emission certificate generator",
+  "dependencies": {
+    "react": "^18.2.0",
+    "papaparse": "^5.4.1",
+    "lucide-react": "^0.263.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
